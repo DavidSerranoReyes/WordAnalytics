@@ -1,0 +1,3 @@
+export const INSTA_MAX_CHARACTERS = 2200;
+export const TIKTOK_MAX_CHARACTERS = 2200;
+export const TWITTER_MAX_CHARACTERS = 280;
