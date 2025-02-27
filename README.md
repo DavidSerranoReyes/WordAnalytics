@@ -39,5 +39,5 @@ To run the application locally, you will need to have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/word-analytics.git
+   git clone https://github.com/DavidSerranoReyes/WordAnalytics.git
    ```
